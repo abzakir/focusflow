@@ -25,7 +25,7 @@ Made by **Zakir** · v1.0.0
 | Asset | Description |
 |-------|-------------|
 | **`FocusFlow.exe`** | Standalone app — download, run, and start focusing |
-| **`FocusFlow_Setup.exe`** *(optional)* | Windows installer if you publish it alongside the portable EXE |
+
 
 ### Install & run
 
