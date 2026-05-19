@@ -148,14 +148,6 @@ For a full Windows installer (requires [Inno Setup 6](https://jrsoftware.org/isi
 python build_installer.py
 # Installer output: installer_output/FocusFlow_Setup.exe
 ```
-
-### Upload a new release
-
-1. Build `dist/FocusFlow.exe` (and optionally `installer_output/FocusFlow_Setup.exe`).
-2. On GitHub: **Releases** → **Draft a new release** → choose a tag (e.g. `v1.0.0`).
-3. Attach **`FocusFlow.exe`** (and the setup file if you built it) under **Release assets**.
-4. Publish the release — the [Download](#download-windows) links in this README point to the latest release automatically.
-
 ---
 
 ## Default settings
