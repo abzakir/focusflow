@@ -213,9 +213,4 @@ Issues and pull requests are welcome. Please open an issue first for large chang
 
 **Zakir** — FocusFlow v1.0.0
 
----
-
-## License
-
-Add your preferred license file (e.g. `LICENSE`) and update this section before publishing.
 
